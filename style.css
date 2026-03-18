@@ -3,7 +3,14 @@ header {
 }
 
 .cards {
+  display: flex;
   text-align: center;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+.cards div {
   border: 1px solid skyblue;
   border-radius: 6px;
+  margin: 10px;
+  padding: 20px;
 }
