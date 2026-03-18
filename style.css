@@ -1,0 +1,9 @@
+header {
+  text-align: center;
+}
+
+.cards {
+  text-align: center;
+  border: 1px solid skyblue;
+  border-radius: 6px;
+}
