@@ -5,15 +5,21 @@ header {
 .cards {
   display: flex;
   text-align: center;
-  border: 1px solid black;
-  border-radius: 6px;
+  margin: 80px;
 }
-.cards div {
+.Supervisor,
+.Team,
+.Karma,
+.Calc {
   border: 1px solid skyblue;
   border-radius: 6px;
-  margin: 10px;
+  margin: 15px 30px;
   padding: 20px;
 }
 img {
   float: right;
+}
+.card-stack {
+  display: flex;
+  flex-direction: column;
 }
