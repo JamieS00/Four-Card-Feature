@@ -28,6 +28,8 @@ p {
 .Calc {
   border: 1px solid black;
   border-radius: 6px;
+  box-shadow: 10px 5px 5px hsl(212, 6%, 44%, 18%);
+
   margin: 20px;
   width: 250px;
   max-width: 80%;
