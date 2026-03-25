@@ -17,6 +17,9 @@ span {
   text-align: center;
   margin: 80px;
 }
+p {
+  color: hsl(212, 6%, 44%);
+}
 
 .Supervisor,
 .Team,
@@ -24,7 +27,7 @@ span {
 .Calc {
   border: 1px solid skyblue;
   border-radius: 6px;
-  margin: 15px 30px;
+  margin: 20px 30px;
   padding: 20px;
 }
 img {
