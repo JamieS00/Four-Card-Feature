@@ -19,7 +19,7 @@ span {
   margin: 50px;
 }
 p {
-  color: hsl(212, 6%, 44%);
+  color: hsl(212, 6%, 44%, 60%);
 }
 
 .Supervisor,
