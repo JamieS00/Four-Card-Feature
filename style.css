@@ -15,7 +15,8 @@ span {
 .cards {
   display: flex;
   text-align: center;
-  margin: 80px;
+  justify-content: center;
+  margin: 50px;
 }
 p {
   color: hsl(212, 6%, 44%);
@@ -25,10 +26,16 @@ p {
 .Team,
 .Karma,
 .Calc {
-  border: 1px solid skyblue;
+  border: 1px solid black;
   border-radius: 6px;
-  margin: 20px 30px;
-  padding: 20px;
+  margin: 20px;
+  width: 250px;
+  max-width: 80%;
+  height: 300px;
+}
+.Supervisor,
+.Calc {
+  margin-top: 150px;
 }
 img {
   float: right;
@@ -36,4 +43,26 @@ img {
 .card-stack {
   display: flex;
   flex-direction: column;
+}
+
+.Supervisor {
+  border-top-style: solid;
+  border-top-width: thick;
+  border-top-color: hsl(180, 62%, 55%);
+}
+
+.Team {
+  border-top: solid;
+  border-top-width: thick;
+  border-top-color: hsl(0, 78%, 62%);
+}
+.Karma {
+  border-top: solid;
+  border-top-width: thick;
+  border-top-color: hsl(34, 97%, 64%);
+}
+.Calc {
+  border-top: solid;
+  border-top-width: thick;
+  border-top-color: hsl(212, 86%, 64%);
 }
