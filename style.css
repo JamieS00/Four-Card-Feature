@@ -73,3 +73,11 @@ img {
   border-top-width: thick;
   border-top-color: hsl(212, 86%, 64%);
 }
+
+/*Mobile Responsiveness*/
+@media (max-width: 780px) {
+  .cards {
+    display: flex;
+    flex-direction: column;
+  }
+}
