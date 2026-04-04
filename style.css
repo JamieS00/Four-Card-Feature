@@ -79,4 +79,7 @@ img {
     display: flex;
     flex-direction: column;
   }
+  header {
+    color: hsl(234, 12%, 34%);
+  }
 }
