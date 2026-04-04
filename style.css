@@ -28,12 +28,12 @@ p {
 .Team,
 .Karma,
 .Calc {
-  border: 1px solid black;
+  border: 1px solid white;
   border-radius: 6px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  box-shadow: 10px 5px 5px hsl(212, 6%, 44%, 18%);
+  box-shadow: 0 4px 10px hsla(212, 6%, 44%, 0.18);
   padding: 20px;
   width: 300px;
   min-height: 200px;
