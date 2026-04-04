@@ -18,7 +18,7 @@ span {
   justify-content: center;
   align-items: center;
   gap: 40px;
-  /* margin: 50px; */
+  margin: 50px;
 }
 p {
   color: hsl(212, 6%, 44%, 60%);
