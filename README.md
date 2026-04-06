@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-RGruHCe0oZ)
 - Live Site URL: [Live site ](https://jamies00.github.io/Four-Card-Feature/)
 
 ## My process
